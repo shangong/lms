@@ -1,0 +1,20 @@
+06/02/14 08:31:58 [7152][-none-][FATAL] Could not connect to DB server localhost as shang. port : Access denied for user 'shang'@'localhost' (using password: YES)
+06/02/14 08:31:58 [7152][-none-][FATAL] Could Not Connect: Database Is Not Connected
+06/02/14 08:31:58 [7152][-none-][FATAL]  Query Failed: SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME = '' LIMIT 0,1: Database Is Not Connected
+06/02/14 08:31:58 [7152][-none-][FATAL]  Get One Failed:SELECT SCHEMA_NAME FROM INFORMATION_SCHEMA.SCHEMATA WHERE SCHEMA_NAME = '': Database Is Not Connected
+06/02/14 08:31:58 [7152][-none-][FATAL]  Query Failed: SELECT version() version LIMIT 0,1: Database Is Not Connected
+06/02/14 08:31:58 [7152][-none-][FATAL]  Get One Failed:SELECT version() version: Database Is Not Connected
+06/13/14 09:27:26 [9468][-none-][FATAL] SECURITY: User authentication for yongheng failed
+06/13/14 09:27:26 [9468][-none-][FATAL] FAILED LOGIN:attempts[1] - yongheng
+06/13/14 09:34:29 [9468][-none-][FATAL] SECURITY: User authentication for yongheng failed
+06/13/14 09:34:29 [9468][-none-][FATAL] FAILED LOGIN:attempts[1] - yongheng
+06/13/14 09:34:46 [9468][-none-][FATAL] SECURITY: User authentication for yongheng failed
+06/13/14 09:34:46 [9468][-none-][FATAL] FAILED LOGIN:attempts[2] - yongheng
+06/13/14 09:35:08 [9468][-none-][FATAL] SECURITY: User authentication for yongheng failed
+06/13/14 09:35:08 [9468][-none-][FATAL] FAILED LOGIN:attempts[3] - yongheng
+06/13/14 09:35:15 [9468][-none-][FATAL] SECURITY: User authentication for yongheng failed
+06/13/14 09:35:15 [9468][-none-][FATAL] FAILED LOGIN:attempts[4] - yongheng
+06/13/14 09:36:29 [9468][-none-][FATAL] SECURITY: User authentication for yongheng failed
+06/13/14 09:36:29 [9468][-none-][FATAL] FAILED LOGIN:attempts[5] - yongheng
+06/13/14 09:36:41 [9468][-none-][FATAL] SECURITY: User authentication for yh failed
+06/13/14 09:36:41 [9468][-none-][FATAL] FAILED LOGIN:attempts[6] - yh
